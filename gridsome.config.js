@@ -10,7 +10,7 @@ module.exports = {
     {
       use: 'gridsome-source-graphql',
       options: {
-        url: 'https://www.way2fresher.com',
+        url: 'https://www.way2fresher.com/graphql',
         fieldName: 'wp',
         typeName: 'WordPress',
 
